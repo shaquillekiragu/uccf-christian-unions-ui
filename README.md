@@ -1,75 +1,27 @@
-# Nuxt Minimal Starter
+# uccf-christian-unions-ui
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Installation and Setup Instructions:
+<br>
 
-## Setup
+1. Clone this repository:
 
-Make sure to install dependencies:
+```
+https://github.com/shaquillekiragu/uccf-christian-unions-ui.git
+```
 
-```bash
-# npm
+2. Run this command to install all the required dependencies for the project:
+
+```
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
+3. Now you can run the web app locally using:
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
+```
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+<br>
 
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+4. Lastly, open the provided localhost URL from your terminal in the browser.
+   <br><br>
