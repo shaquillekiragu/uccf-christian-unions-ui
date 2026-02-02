@@ -6,7 +6,7 @@
 1. Clone this repository:
 
 ```
-https://github.com/shaquillekiragu/event-highway.git
+https://github.com/shaquillekiragu/uccf-christian-unions-ui.git
 ```
 
 2. Run this command to install all the required dependencies for the project:
