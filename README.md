@@ -1,1 +1,27 @@
 # uccf-christian-unions-ui
+
+## Installation and Setup Instructions:
+<br>
+
+1. Clone this repository:
+
+```
+https://github.com/shaquillekiragu/event-highway.git
+```
+
+2. Run this command to install all the required dependencies for the project:
+
+```
+npm install
+```
+
+3. Now you can run the web app locally using:
+
+```
+npm run dev
+```
+
+<br>
+
+4. Lastly, open the provided localhost URL from your terminal in the browser.
+   <br><br>
