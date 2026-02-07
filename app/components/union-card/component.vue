@@ -1,5 +1,5 @@
 <template>
-    <article class="w-full min-h-80 flex flex-col gap-4 mx-8 p-6 bg-white rounded-lg border border-gray-200 shadow-sm hover:shadow-md">
+    <article class="w-full min-h-60 sm:min-h-80 flex flex-col gap-4 p-6 bg-white rounded-lg border border-gray-200 shadow-sm hover:shadow-md min-w-0">
         <div class="flex flex-col gap-2">
             <h2 class="text-2xl font-bold text-gray-900">{{ union.name }}</h2>
             <p class="text-lg text-gray-700">{{ union.full_name }}</p>
