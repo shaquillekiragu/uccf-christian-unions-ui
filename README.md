@@ -5,7 +5,7 @@
 **[View the live site →](https://uccf-christian-unions-ui.netlify.app)**
 <br><br>
 
-## Installation and Setup Instructions:
+## Installation and Setup Instructions
 <br>
 
 1. Clone this repository:
